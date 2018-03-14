@@ -1,0 +1,4 @@
+Application name	tamaramusic
+API key	c0cad4399ba74f0e30c069fbb0cba72d
+Shared secret	7fdd0b8b81f3b77d5322b06609b4a295
+Registered to	jkzasori
